@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tamru-bot
+- 👋 Hi, I’m @ebmat
 - 👀 I’m still in search of my interests.
 - 🌱 I’m currently learning machine learning, reinforcement learning and iot.
 - 💞️ I’m looking to collaborate on the topics related to the above once.
